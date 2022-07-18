@@ -1,2 +1,2 @@
 # Java-Algorithms
-Assortment of various algorithms written for practice in Java
+Collection of various algorithms written for practice in Java
